@@ -17,7 +17,7 @@
 - https://www.youtube.com/watch?v=oI9aaBpJvoA
 
 **KVM**
-https://github.com/tomwechsler/KVM-Virtualization-with-Rocky-Linux/tree/main
+- https://github.com/tomwechsler/KVM-Virtualization-with-Rocky-Linux/tree/main
 
 <!---
 eyesroot/eyesroot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
