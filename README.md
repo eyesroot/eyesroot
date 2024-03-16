@@ -19,6 +19,9 @@
 **KVM**
 - https://github.com/tomwechsler/KVM-Virtualization-with-Rocky-Linux/tree/main
 
+
+https://github.com/enaqx/awesome-pentest?tab=readme-ov-file#europe
+
 <!---
 eyesroot/eyesroot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
