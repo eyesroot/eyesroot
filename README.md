@@ -32,28 +32,43 @@
 
 #### SOC
 https://habr.com/ru/companies/innostage/articles/785194/
-1. LM (Log Management)
+1. LM (Log Management):
    - ELK Stack
-3. SIEM (Security Information and Event Management)
+3. SIEM (Security Information and Event Management):
    - Wazuh
-5. UEBA/UBA (User [and Entity] Behavioral Analytics)
+   - IBM QRadar Security Intelligence
+   - Splunk Enterprise Security
+   - McAfee Enterprise Security Manager
+   - AlienVault Unified Security Platform (AT&T Security)
+   - Micro Focus ArcSight Enterprise Security Manager
+   - RSA NetWitness Platform
+   - FireEye Helix Security Platform
+   - Rapid7 insightIDR
+   - Fortinet FortiSIEM
+5. UEBA/UBA (User [and Entity] Behavioral Analytics):
    - OpenUBA
-7. NTA (Network Traffic Analysis):
-  - Malcolm (Arkime, Zeek, Suricata)
-  - Arkime - https://arkime.com
-5. XDR (Extend Detection and Response) - **Wazuh**
-6. WAF - **pfSense**
-7. IRP/SOAR (Incident Response Platform - **The Hive** / Security Orchestration, Automation and Response - Shuffle)
-  - https://thehive-project.org
-  - https://shuffler.io
-8. Sandbox - **Cuckoo Sandbox**
-  - https://github.com/cuckoosandbox
-9. TIP (Threat Intelligence Platform - платформа разведки угроз) - **MISP**
-  - https://www.misp-project.org
+7. NTA (Network Traffic Analysis), FPC (Full Packet Capture):
+  - Malcolm (+ Arkime, Zeek, Suricata)
+  - Arkime (https://arkime.com)
+5. XDR (Extend Detection and Response):
+   - Wazuh
+6. WAF (Web Application Firewall):
+   - pfSense
+7. IRP/SOAR:
+   IRP (Incident Response Platform):
+      - The Hive (https://thehive-project.org)
+   SOAR (Security Orchestration, Automation and Response):
+      - Shuffle (https://shuffler.io)
+8. Sandbox:
+   - Cuckoo Sandbox (https://github.com/cuckoosandbox)
+9. TIP (Threat Intelligence Platform - платформа разведки угроз)
+   - MISP (https://www.misp-project.org)
 
-- Malcolm
-- Suricata
-- Snort
+Malcolm:
+Suricata:
+   - Suricata PT Open Ruleset (https://github.com/ptresearch/AttackDetection)
+   - https://rules.emergingthreats.net/open/suricata-5.0/
+Snort:
 
 #### BlueTeam-Tools
 - https://github.com/A-poc/BlueTeam-Tools
