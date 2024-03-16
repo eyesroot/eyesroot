@@ -64,11 +64,11 @@ https://habr.com/ru/companies/innostage/articles/785194/
 9. TIP (Threat Intelligence Platform - платформа разведки угроз)
    - MISP (https://www.misp-project.org)
 
-Malcolm:
-Suricata:
+#### Malcolm:
+#### Suricata:
    - Suricata PT Open Ruleset (https://github.com/ptresearch/AttackDetection)
    - https://rules.emergingthreats.net/open/suricata-5.0/
-Snort:
+#### Snort:
 
 #### BlueTeam-Tools
 - https://github.com/A-poc/BlueTeam-Tools
