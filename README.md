@@ -13,8 +13,8 @@
 - https://www.sans.org/cyberaces/
 - https://www.eccouncil.org/cybersecurity-exchange/cyber-novice/free-cybersecurity-courses-beginners/
 
-- [ ] 3 Year Cybersecurity Career Roadmap
-https://www.youtube.com/watch?v=oI9aaBpJvoA
+**3 Year Cybersecurity Career Roadmap**
+- https://www.youtube.com/watch?v=oI9aaBpJvoA
 
 <!---
 eyesroot/eyesroot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
