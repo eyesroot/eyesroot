@@ -6,12 +6,18 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-𝐅𝐑𝐄𝐄 𝐁𝐋𝐔𝐄 𝐓𝐄𝐀𝐌 𝐂𝐘𝐁𝐄𝐑 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐓𝐑𝐀𝐈𝐍𝐈𝐍𝐆
+𝐁𝐋𝐔𝐄 𝐓𝐄𝐀𝐌 𝐂𝐘𝐁𝐄𝐑 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐓𝐑𝐀𝐈𝐍𝐈𝐍𝐆
 - https://www.fortinet.com/training-certification
 - https://www.splunk.com/en_us/training/course-catalog.html?sort=Newest&filters=filterGroup3SOCAnalyst
 - https://www.isc2.org/Certifications/CC
 - https://www.sans.org/cyberaces/
 - https://www.eccouncil.org/cybersecurity-exchange/cyber-novice/free-cybersecurity-courses-beginners/
+
+#### TryHackMe
+- https://tryhackme.com/path/outline/soclevel1 (SOC Leve 1)
+- https://tryhackme.com/path/outline/soclevel2 (SOC Leve 1)
+- https://tryhackme.com/path/outline/security-engineer-training (Security Engineer)
+
 
 **3 Year Cybersecurity Career Roadmap**
 - https://www.youtube.com/watch?v=oI9aaBpJvoA
