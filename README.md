@@ -55,10 +55,10 @@ https://habr.com/ru/companies/innostage/articles/785194/
 6. WAF (Web Application Firewall):
    - pfSense
 7. IRP/SOAR:
-   IRP (Incident Response Platform):
-      - The Hive (https://thehive-project.org)
-   SOAR (Security Orchestration, Automation and Response):
-      - Shuffle (https://shuffler.io)
+   - IRP (Incident Response Platform):
+      1. The Hive (https://thehive-project.org)
+   - SOAR (Security Orchestration, Automation and Response):
+      1. Shuffle (https://shuffler.io)
 8. Sandbox:
    - Cuckoo Sandbox (https://github.com/cuckoosandbox)
 9. TIP (Threat Intelligence Platform - платформа разведки угроз)
